@@ -1,4 +1,4 @@
-# Tibame CHA101G1 Seeker's Pool 求職網站專案作品
+# Tibame CHA101G1 Seeker's Pool 求職網站專案作品 (Java Servlet + MVC架構開發)
 # 【專案成員】
 
 鍾承峰、張宇謙、張雅婷、林敬淞、林雯儀、許瑜真、李日閔、游仕璿
